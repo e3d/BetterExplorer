@@ -1,6 +1,7 @@
 Addition to the License for our needs:
 (this stands OVER the license)
 1. Download Hosting and Providing
+
         1.1 Download Providers "Offering ANY part or parts from this application for Download" have to link back to us; the link which should be placed in your download page should be the following: http://better-explorer.com
         
         1.2 Download Providers can mirror our aplication, but only Official Download Packages Offered for Download on our official internet site, better-explorer.com .
@@ -12,6 +13,7 @@ Addition to the License for our needs:
         2.1 Commercial use of any parts of code or executables from this application is Forbidden.
 
 3. Integration in your Projects
+
         3.1 If you want to integrate "Better Explorer" or any parts of it or parts of its source into your source or Program, you have to contact us. Without contacting, it is forbidden to Integrate ANYTHING in your Program.
 
         3.2 The Program in your custom Package has to be delivered "as it is" with no modifications in the code or the executables.
